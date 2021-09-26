@@ -239,6 +239,9 @@ class App extends React.Component<any, any> {
           infuraId: process.env.REACT_APP_INFURA_ID
         }
       },
+      binancechainwallet: {
+        package:true
+      },
       torus: {
         package: Torus
       },

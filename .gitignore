@@ -6,6 +6,7 @@ dist
 lib
 
 .env
+.idea/
 
 #misc
 .DS_Store
